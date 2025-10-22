@@ -10,6 +10,8 @@
 	},
 	"dependencies": {
 		"@biomejs/biome": "^2.2.6",
+		"@c15t/nextjs": "^1.7.1",
+		"@c15t/scripts": "^1.0.0",
 		"@hookform/resolvers": "^3.10.0",
 		"@radix-ui/react-accordion": "1.2.2",
 		"@radix-ui/react-alert-dialog": "1.1.4",
